@@ -5,7 +5,7 @@ baseURL = "https://sevenbit250.github.io"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-themesDir = "/themes"
+themesDir = "themes"
 
 # website title
 # 网站标题
