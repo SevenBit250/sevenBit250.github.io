@@ -40,7 +40,7 @@ docker compose ps
 ```
 ## 启动
 {{< admonition type=tip title="提示" open=true >}}
-- 由于我是本地服务器部署, 需要改一下nginx的配置文件，否则就会遇到卡install界面的问题，解决方案看[这里](https://blog.csdn.net/qq_53597256/article/details/143745465)
+- 如果你部署的并非1.0.0版本, 则需要改一下nginx的配置文件，否则就会遇到卡install界面的问题，解决方案看[这里](https://blog.csdn.net/qq_53597256/article/details/143745465)
 {{< /admonition >}}
 
 - 打开浏览器，输入`http://你的服务器地址:8886/install`，进入dify的安装界面，按照提示安装即可
