@@ -1,6 +1,6 @@
 +++
 date = '2025-02-28T23:24:28+08:00'
-title = 'Dify 1.0.0 docker部署'
+title = 'Dify 1.0.0 podman部署'
 
 draft = true
 tags = ["docker", "podman", "dify"]
