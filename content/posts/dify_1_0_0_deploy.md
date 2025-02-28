@@ -2,7 +2,7 @@
 date = '2025-02-28T23:24:28+08:00'
 title = 'Dify 1.0.0 podman部署'
 
-draft = true
+draft = false
 tags = ["docker", "podman", "dify"]
 categories = ["docker", "podman", "dify"]
 featuredImagePreview = "https://private-user-images.githubusercontent.com/13230914/321628871-f9e19af5-61ba-4119-b926-d10c4c06ebab.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA3NTY2NjIsIm5iZiI6MTc0MDc1NjM2MiwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2Mjg4NzEtZjllMTlhZjUtNjFiYS00MTE5LWI5MjYtZDEwYzRjMDZlYmFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI4VDE1MjYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczZWFiYTMxOTcyNDNiNzlhODhjYTRjODU1ZTNjMzBjODIzMTViYzJlNGJiZTdjOTZmNDNmOWVkOTc1MjRiYzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZJLGaARG3qkat-YeTtGik77_sMfwNzVS4AMr98Mo62I"
