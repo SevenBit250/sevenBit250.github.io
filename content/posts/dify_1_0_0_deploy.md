@@ -5,10 +5,10 @@ title = 'Dify 1.0.0 podman部署'
 draft = false
 tags = ["docker", "podman", "dify"]
 categories = ["docker", "podman", "dify"]
-featuredImagePreview = "https://img.picui.cn/free/2025/03/01/67c1ecbc5e45c.png"
+featuredImagePreview = "/images/posts/dify.png"
 +++
 
-# Dify 1.0.0 docker部署
+# Dify 1.0.0 podman部署
 > dify今天发布了1.0.0版本, 在公司玩dify玩的不亦乐乎，手痒难耐，今天在家也部署一下，正好aliyun白嫖的100w token, 接进来玩玩。
 
 ## 部署环境
